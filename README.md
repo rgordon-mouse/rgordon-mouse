@@ -1,4 +1,4 @@
-- Just a separate account used mainly for internal access to CoPilot.
+- Just a separate account used mainly for internal org membership
 
 <!---
 rgordon-mouse/rgordon-mouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
